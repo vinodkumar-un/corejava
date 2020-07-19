@@ -6,6 +6,6 @@ class Test
 	}
 
 	public String sayHello() {
-		"Hello"
+		return "Hello"
 	}
 }
