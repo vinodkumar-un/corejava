@@ -6,6 +6,6 @@ class Test
 	}
 
 	public String sayHello() {
-		return "Hi, Jenkins how are you";
+		return "Hi, Jenkins how are you ----";
 	}
 }
