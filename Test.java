@@ -4,4 +4,8 @@ class Test
 	{
 		System.out.println("Hello World!");
 	}
+
+	public String sayHello() {
+		"Hello"
+	}
 }
