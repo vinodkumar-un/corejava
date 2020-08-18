@@ -6,6 +6,6 @@ class Test
 	}
 
 	public String sayHello() {
-		return "Hi, Jenkinsf ";
+		return "Hi, Jenkins app ";
 	}
 }
